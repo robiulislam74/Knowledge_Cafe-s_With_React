@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/3zDH07q/2.png",
+      "title": "Introduction to JSON: Understanding data structures and how to work with them",
+      "author_name": "John Doe",
+      "author_profile": "https://i.ibb.co.com/9hChYr7/boy1.png",
+      "reading_time": 5,
+      "posted_date": "Oct 23 (1 Day ago)",
+      "hashtag": ["#AI", "#Innovation"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/QdC71h1/1.jpg ",
+       "title": "Advanced JavaScript concepts: A deep dive into closures, promises, and async operations",
+      "author_name": "Jane Smith",
+      "author_profile": "https://i.ibb.co.com/dg0bt2g/boy2.jpg",
+      "reading_time": 8,
+      "posted_date": "Oct 22 (2 Days ago)",
+      "hashtag": ["#QuantumComputing", "#Science"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/qgqCMsc/3.png",
+      "title": "Building RESTful APIs: Best practices for designing and maintaining scalable web services",
+      "author_name": "Alice Johnson",
+      "author_profile": "https://i.ibb.co.com/h8vxZX3/girl1.jpg",
+      "reading_time": 6,
+      "posted_date": "Oct 21 (3 Days ago)",
+      "hashtag": ["#RemoteWork", "#Productivity"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/PN1Fnqd/4.jpg",
+      "title":  "Mastering Python for data science: From data analysis to machine learning techniques",
+      "author_name": "Mark Lee",
+      "author_profile": "https://i.ibb.co.com/VHBGbbd/girl2.jpg",
+      "reading_time": 7,
+      "posted_date": "Oct 20 (4 Days ago)",
+      "hashtag": ["#GreenEnergy", "#Sustainability"]
+    }
+  ]
+  
